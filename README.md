@@ -1,1 +1,1 @@
-![Print screen](print.jpg)
+![Print screen](https://raw.github.com/brunoqueiros/Astronauta/master/print.jpg)
